@@ -1,9 +1,8 @@
-# SQL language support in Atom
+# Visuals Basic .NET language support in Atom
 
-Adds syntax highlighting to SQL files in Atom.
+Adds syntax highlighting to vb files in Atom.
 
-Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
-from the [SQL TextMate bundle](https://github.com/textmate/sql.tmbundle).
+Originally from the [VB.Net SublimeText bundle](https://github.com/angryant0007/VBDotNetSyntax).
 
 Contributions are greatly appreciated. Please fork this repository and open a
 pull request to add snippets, make grammar tweaks, etc.
